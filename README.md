@@ -6,9 +6,17 @@
 
 _In order to get into the App you would need to Sign in first, you can use your google account or the following credentials for testing_
 
-email: testwebpage9@gmail.com
+email:
 
-password: testadmin
+```
+testwebpage9@gmail.com
+```
+
+password:
+
+```
+testadmin
+```
 
 **Live**: https://react-redux-notes-app-eight.vercel.app/
 
